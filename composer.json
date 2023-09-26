@@ -58,7 +58,7 @@
         "sort-packages": true,
         "allow-plugins": {
 
-            "symfony/thank": true
+            "symfony/thank": false
         }
     },
     "minimum-stability": "stable",
